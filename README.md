@@ -28,7 +28,7 @@ Ensure you have the following installed before running the script:
 
 Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/yourusername/unilag-course-downloader.git
+git clone https://github.com/CloudDev777/Automate_Form_Bot.git
 cd unilag-course-downloader
 ```
 
