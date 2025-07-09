@@ -29,7 +29,7 @@ Ensure you have the following installed before running the script:
 Open your terminal or command prompt and run:
 ```bash
 git clone https://github.com/CloudDev777/Automate_Form_Bot.git
-cd unilag-course-downloader
+cd Automate_Form_Bot
 ```
 
 ### 2. Install Dependencies
