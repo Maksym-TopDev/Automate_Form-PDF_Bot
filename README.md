@@ -28,7 +28,7 @@ Ensure you have the following installed before running the script:
 
 Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/CloudDev777/Automate_Form_Bot.git
+git clone https://github.com/Maksym-TopDev/Automate_Form_Bot.git
 cd Automate_Form_Bot
 ```
 
@@ -71,12 +71,6 @@ Download the correct **ChromeDriver** from [here](https://sites.google.com/chrom
 ### 🔹 Timeout Errors  
 If elements take too long to load, increase the **WebDriverWait** duration in the script.  
 
----
-
-## Author
-- Website - [Gbenga Opeyemi](https://gbenga.koyeb.app/)
-- X - [@gbengaopeyemi04](https://x.com/gbengaopeyemi04)
-- LinkedIn - [Opeyemi Oluwagbemiga](https://linkedin.com/in/opeyemi-oluwagbemiga-2ba61423b)
 
 ## 📜 License  
 This project is open-source and available under the **MIT License**.  
